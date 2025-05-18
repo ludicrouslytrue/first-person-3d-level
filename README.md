@@ -5,7 +5,7 @@ A first-person 3D obstacle course game with movement mechanics, a chat system, a
 ## Installation
 
 1. **Download Latest Release**
-   - Visit [the release page](https://github.com/ludicrouslytrue/first-person-3d-level/releases/tag/v1.0)
+   - Visit [the release page](https://github.com/ludicrouslytrue/first-person-3d-level/releases/tag/v1.1)
    - Download `First.Person.3D.level.v1.0.zip ` from Assets
    - Extract and run `First Person 3D level.exe`
 
